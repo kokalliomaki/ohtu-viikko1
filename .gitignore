@@ -1,0 +1,5 @@
+# Distribution / packaging
+build/
+
+# File extensions / temp files
+*.tmp
